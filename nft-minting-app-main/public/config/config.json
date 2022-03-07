@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9839958F9754fD1426DAedb49511c4B36057ee16",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x9839958f9754fd1426daedb49511c4b36057ee16",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Lo-Fi Rain Drops",
+  "SYMBOL": "LFRD",
+  "MAX_SUPPLY": 1345,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lo-fi-rain-drops-v2",
+  "SHOW_BACKGROUND": true
+}
